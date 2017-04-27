@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @package    Leytech_RatingStars
+ * @author     Chris Nolan (chris@leytech.co.uk)
+ * @copyright  Copyright (c) 2017 Leytech
+ * @license    https://opensource.org/licenses/MIT  The MIT License  (MIT)
+ */
+-->
+<config>
+    <modules>
+        <Leytech_RatingStars>
+            <version>1.0.0</version>
+        </Leytech_RatingStars>
+    </modules>
+    <global>
+        <helpers>
+            <leytech_ratingstars>
+                <class>Leytech_RatingStars_Helper</class>
+            </leytech_ratingstars>
+        </helpers>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <leytech_ratingstars>
+                    <file>leytech/ratingstars.xml</file>
+                </leytech_ratingstars>
+            </updates>
+        </layout>
+    </frontend>
+    <default>
+        <leytech_ratingstars>
+            <settings>
+                <enabled>1</enabled>
+                <include_jquery>1</include_jquery>
+            </settings>
+        </leytech_ratingstars>
+    </default>
+</config>
