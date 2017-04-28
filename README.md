@@ -1,13 +1,15 @@
 ## Rating stars for Magento 1 product reviews
 
-This extension seamlessly replaces the rating radio inputs with selectable stars. It works on both the default and rwd Magento themes.
+This extension seamlessly replaces the product rating radio inputs with selectable stars. It works on both the default and rwd Magento themes.
 
 ### Features
 
-- Replace the rating radio inputs with stars.
+- Replace the product rating radio inputs with stars.
 - Works with both default and rwd themes.
 - No overrides. Just uses layout XML updates.
-- Implements the [RateYo!](http://rateyo.fundoocode.ninja/) jQuery star rating plugin
+- Implements the [RateYo!](http://rateyo.fundoocode.ninja/) jQuery star rating plugin.
+- Nice clean code.
+- Easily integrated into your own theme.
 
 ### Compatibility
 
@@ -15,8 +17,9 @@ Tested on Magento CE 1.9.3.2. Should work on lower versions and equivalent EE.
 
 ### How to use?
 
-1. Install the extension. Clear cache, logout of admin and back in.
-2. Settings can be configured under System -> Configuration -> Leytech Extensions.
+1. Install the extension. 
+2. Clear cache, logout of admin and back in.
+3. Settings can be configured under System -> Configuration -> Leytech Extensions.
 
 ### Screenshots
 
