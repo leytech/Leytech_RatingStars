@@ -43,8 +43,7 @@ Rating stars on rwd theme review form (extension enabled):
 
 ### To do
 
-1. Composer support.
-2. I may add some configurable options for RateYo! like colour and size.
+1. I may add some configurable options for RateYo! like colour and size.
 
 ### Support
 
