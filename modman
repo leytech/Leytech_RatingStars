@@ -1,0 +1,7 @@
+src/app/code/community/Leytech/RatingStars                                   app/code/community/Leytech/RatingStars
+src/app/design/frontend/base/default/layout/leytech/ratingstars.xml          app/design/frontend/base/default/layout/leytech/ratingstars.xml
+src/app/design/frontend/base/default/template/leytech/ratingstars            app/design/frontend/base/default/template/leytech/ratingstars
+src/app/design/frontend/rwd/default/layout/leytech/ratingstars.xml           app/design/frontend/rwd/default/layout/leytech/ratingstars.xml
+src/app/design/frontend/rwd/default/template/leytech/ratingstars             app/design/frontend/rwd/default/template/leytech/ratingstars
+src/app/etc/modules/Leytech_RatingStars.xml                                  app/etc/modules/Leytech_RatingStars.xml
+src/js/leytech/ratingstars                                                   js/leytech/ratingstars

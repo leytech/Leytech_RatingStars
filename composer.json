@@ -1,0 +1,13 @@
+{
+  "name": "leytech/leytech_ratingstars",
+  "type": "magento-module",
+  "description": "Module to replace product rating radio inputs with selectable stars.",
+  "homepage": "https://github.com/leytech/Leytech_RatingStars",
+  "require": {
+    "php": ">=5.4.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "extra":{
+    "magento-root-dir": "src/"
+  }
+}
