@@ -5,7 +5,9 @@ This extension seamlessly replaces the product rating radio inputs with selectab
 ### Features
 
 - Replace the product rating radio inputs with stars.
-- Works with both default and rwd themes.
+- Works with both standard Magento themes: default and rwd.
+- Supports multiple ratings.
+- Ratings are validated before submission.
 - No overrides. Just uses layout XML updates.
 - Implements the [RateYo!](http://rateyo.fundoocode.ninja/) jQuery star rating plugin.
 - Nice clean code.
